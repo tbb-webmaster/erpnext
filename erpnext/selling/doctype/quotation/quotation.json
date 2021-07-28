@@ -21,6 +21,7 @@
   "transaction_date",
   "valid_till",
   "order_type",
+  "enq_product_name",
   "contact_section",
   "customer_address",
   "address_display",
@@ -926,14 +927,21 @@
    "label": "Lost Reasons",
    "options": "Quotation Lost Reason Detail",
    "read_only": 1
+  },
+  {
+   "fetch_from": "lead_name.enq_product_name",
+   "fieldname": "enq_product_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Enq Product Name"
   }
  ],
  "icon": "fa fa-shopping-cart",
  "idx": 82,
  "is_submittable": 1,
  "links": [],
- "max_attachments": 1,
- "modified": "2020-10-30 13:58:59.212060",
+ "max_attachments": 10,
+ "modified": "2021-05-05 14:53:30.706089",
  "modified_by": "Administrator",
  "module": "Selling",
  "name": "Quotation",

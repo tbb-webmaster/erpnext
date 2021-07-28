@@ -10,15 +10,15 @@
  "idx": 0,
  "is_public": 1,
  "is_standard": 1,
- "modified": "2020-07-21 16:13:25.092287",
- "modified_by": "Administrator",
+ "modified": "2021-07-22 11:07:41.195120",
+ "modified_by": "purchase@karadanieng.com",
  "module": "Buying",
  "name": "Purchase Order Trends",
  "number_of_groups": 0,
  "owner": "Administrator",
  "report_name": "Purchase Order Trends",
  "timeseries": 0,
- "type": "Line",
+ "type": "Bar",
  "use_report_chart": 1,
  "y_axis": []
 }

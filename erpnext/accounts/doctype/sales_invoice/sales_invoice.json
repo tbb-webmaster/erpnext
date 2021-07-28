@@ -165,6 +165,7 @@
   "col_break23",
   "status",
   "source",
+  "enq_product_name",
   "more_info",
   "debit_to",
   "party_account_currency",
@@ -1953,8 +1954,10 @@
    "fieldtype": "Link",
    "label": "Set Target Warehouse",
    "options": "Warehouse"
+<<<<<<< Updated upstream
   },
   {
+<<<<<<< Updated upstream
    "default": "0",
    "fieldname": "is_debit_note",
    "fieldtype": "Check",
@@ -1966,6 +1969,21 @@
    "fieldname": "disable_rounded_total",
    "fieldtype": "Check",
    "label": "Disable Rounded Total"
+=======
+   "fetch_from": "lead_name.enq_product_name",
+   "fieldname": "enq_product_name",
+   "fieldtype": "Data",
+   "label": "Enq Product Name"
+>>>>>>> Stashed changes
+||||||| merged common ancestors
+=======
+  },
+  {
+   "fetch_from": "lead_name.enq_product_name",
+   "fieldname": "enq_product_name",
+   "fieldtype": "Data",
+   "label": "Enq Product Name"
+>>>>>>> Stashed changes
   }
  ],
  "icon": "fa fa-file-text",
@@ -1978,7 +1996,17 @@
    "link_fieldname": "consolidated_invoice"
   }
  ],
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
  "modified": "2021-05-20 22:48:33.988881",
+=======
+ "modified": "2021-05-05 12:37:21.185155",
+>>>>>>> Stashed changes
+||||||| merged common ancestors
+ "modified": "2021-01-12 12:16:15.192520",
+=======
+ "modified": "2021-05-05 12:37:21.185155",
+>>>>>>> Stashed changes
  "modified_by": "Administrator",
  "module": "Accounts",
  "name": "Sales Invoice",

@@ -151,6 +151,7 @@
   "party_account_currency",
   "is_opening",
   "against_expense_account",
+  "purchased_by",
   "column_break_63",
   "unrealized_profit_loss_account",
   "status",
@@ -1368,8 +1369,10 @@
    "print_hide": 1,
    "print_width": "50px",
    "width": "50px"
+<<<<<<< Updated upstream
   },
   {
+<<<<<<< Updated upstream
    "fieldname": "per_received",
    "fieldtype": "Percent",
    "hidden": 1,
@@ -1377,13 +1380,44 @@
    "no_copy": 1,
    "print_hide": 1,
    "read_only": 1
+=======
+   "fieldname": "purchased_by",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Purchased By",
+   "options": "Employee",
+   "reqd": 1
+>>>>>>> Stashed changes
+||||||| merged common ancestors
+=======
+  },
+  {
+   "fieldname": "purchased_by",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Purchased By",
+   "options": "Employee",
+   "reqd": 1
+>>>>>>> Stashed changes
   }
  ],
  "icon": "fa fa-file-text",
  "idx": 204,
  "is_submittable": 1,
  "links": [],
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
  "modified": "2021-06-15 18:20:56.806195",
+=======
+ "modified": "2021-06-19 14:27:54.552782",
+>>>>>>> Stashed changes
+||||||| merged common ancestors
+ "modified": "2021-03-09 21:56:28.748582",
+=======
+ "modified": "2021-06-19 14:27:54.552782",
+>>>>>>> Stashed changes
  "modified_by": "Administrator",
  "module": "Accounts",
  "name": "Purchase Invoice",

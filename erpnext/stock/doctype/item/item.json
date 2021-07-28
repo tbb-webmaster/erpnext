@@ -19,6 +19,7 @@
   "item_group",
   "is_item_from_hub",
   "stock_uom",
+  "print_item_label",
   "column_break0",
   "disabled",
   "allow_alternative_item",
@@ -185,6 +186,7 @@
    "fieldtype": "Data",
    "in_global_search": 1,
    "label": "Item Name",
+   "length": 300,
    "oldfieldname": "item_name",
    "oldfieldtype": "Data",
    "search_index": 1
@@ -1058,6 +1060,11 @@
    "fieldname": "website_image_alt",
    "fieldtype": "Data",
    "label": "Image Description"
+  },
+  {
+   "fieldname": "print_item_label",
+   "fieldtype": "Data",
+   "label": "Print Item Label"
   }
  ],
  "has_web_view": 1,
@@ -1067,7 +1074,17 @@
  "index_web_pages_for_search": 1,
  "links": [],
  "max_attachments": 1,
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
  "modified": "2021-03-18 14:04:38.575519",
+=======
+ "modified": "2021-05-05 11:06:42.561230",
+>>>>>>> Stashed changes
+||||||| merged common ancestors
+ "modified": "2021-01-25 20:49:50.222976",
+=======
+ "modified": "2021-05-05 11:06:42.561230",
+>>>>>>> Stashed changes
  "modified_by": "Administrator",
  "module": "Stock",
  "name": "Item",

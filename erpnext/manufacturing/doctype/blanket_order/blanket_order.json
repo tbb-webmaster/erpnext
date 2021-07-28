@@ -21,7 +21,8 @@
   "amended_from",
   "terms_and_conditions_section",
   "tc_name",
-  "terms"
+  "terms",
+  "template_name"
  ],
  "fields": [
   {
@@ -129,18 +130,36 @@
    "fieldname": "terms",
    "fieldtype": "Text Editor",
    "label": "Terms and Conditions Details"
+  },
+  {
+   "fieldname": "template_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Template Name"
   }
  ],
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
+<<<<<<< Updated upstream
  "links": [],
+<<<<<<< Updated upstream
  "modified": "2021-06-29 00:30:30.621636",
+=======
+ "modified": "2021-06-28 15:07:15.391992",
+>>>>>>> Stashed changes
+||||||| merged common ancestors
+ "modified": "2019-11-18 19:37:37.151686",
+=======
+ "links": [],
+ "modified": "2021-06-28 15:07:15.391992",
+>>>>>>> Stashed changes
  "modified_by": "Administrator",
  "module": "Manufacturing",
  "name": "Blanket Order",
  "owner": "Administrator",
  "permissions": [
   {
+   "amend": 1,
    "cancel": 1,
    "create": 1,
    "delete": 1,

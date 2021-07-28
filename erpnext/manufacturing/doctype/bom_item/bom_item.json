@@ -59,7 +59,8 @@
    "columns": 3,
    "fieldname": "item_name",
    "fieldtype": "Data",
-   "label": "Item Name"
+   "label": "Item Name",
+   "length": 300
   },
   {
    "depends_on": "eval:parent.with_operations == 1",
@@ -290,7 +291,7 @@
  "index_web_pages_for_search": 1,
  "istable": 1,
  "links": [],
- "modified": "2020-10-08 14:19:37.563300",
+ "modified": "2021-05-10 16:10:09.738915",
  "modified_by": "Administrator",
  "module": "Manufacturing",
  "name": "BOM Item",

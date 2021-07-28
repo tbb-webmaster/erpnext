@@ -45,6 +45,7 @@
    "in_global_search": 1,
    "in_list_view": 1,
    "label": "Item Name",
+   "length": 300,
    "read_only": 1
   },
   {
@@ -169,7 +170,7 @@
  "index_web_pages_for_search": 1,
  "istable": 1,
  "links": [],
- "modified": "2020-10-08 16:21:29.386212",
+ "modified": "2021-05-10 16:10:01.672178",
  "modified_by": "Administrator",
  "module": "Manufacturing",
  "name": "BOM Explosion Item",
