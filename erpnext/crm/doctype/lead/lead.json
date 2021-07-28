@@ -459,6 +459,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   },
   {
 <<<<<<< Updated upstream
@@ -467,6 +468,45 @@
    "label": "Print Language",
    "options": "Language"
 =======
+   "fieldname": "indiamart_data_section",
+   "fieldtype": "Section Break",
+   "label": "IndiaMART Data"
+  },
+  {
+   "fieldname": "subject",
+   "fieldtype": "Data",
+   "label": "Subject"
+  },
+  {
+   "fieldname": "column_break_19",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "enq_product_name",
+   "fieldtype": "Data",
+   "label": "Enq Product Name"
+  },
+  {
+   "fieldname": "indiamart_date",
+   "fieldtype": "Data",
+   "label": "IndiaMART Date"
+  },
+  {
+   "fieldname": "phonemobile",
+   "fieldtype": "Data",
+   "label": "Phone/Mobile",
+   "unique": 1
+  },
+  {
+   "fieldname": "lead_status_reason",
+   "fieldtype": "Select",
+   "label": "Lead Status Reason",
+   "options": "Phone not answered\nPhone not reachable\nNetwork Issue\nContact details incorrect\nLocal Area Preferred\nCallback Requested\nRequired but not ready\nRequired but needs later"
+>>>>>>> Stashed changes
+||||||| merged common ancestors
+=======
+  },
+  {
    "fieldname": "indiamart_data_section",
    "fieldtype": "Section Break",
    "label": "IndiaMART Data"
@@ -749,7 +789,14 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
  "modified": "2021-01-06 19:39:58.748978",
+=======
+ "max_attachments": 5,
+ "modified": "2021-05-10 09:58:34.900617",
+>>>>>>> Stashed changes
+||||||| merged common ancestors
+ "modified": "2020-10-13 15:24:00.094811",
 =======
  "max_attachments": 5,
  "modified": "2021-05-10 09:58:34.900617",
