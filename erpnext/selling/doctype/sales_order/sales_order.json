@@ -1490,6 +1490,8 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
   },
   {
 <<<<<<< Updated upstream
@@ -1499,6 +1501,24 @@
    "fieldtype": "Check",
    "label": "Disable Rounded Total"
 =======
+   "fetch_from": "lead_name.enq_product_name",
+   "fieldname": "enq_product_name",
+   "fieldtype": "Data",
+   "label": "Enq Product Name"
+>>>>>>> Stashed changes
+||||||| merged common ancestors
+=======
+  },
+  {
+   "fetch_from": "lead_name.enq_product_name",
+   "fieldname": "enq_product_name",
+   "fieldtype": "Data",
+   "label": "Enq Product Name"
+>>>>>>> Stashed changes
+||||||| merged common ancestors
+=======
+  },
+  {
    "fetch_from": "lead_name.enq_product_name",
    "fieldname": "enq_product_name",
    "fieldtype": "Data",
@@ -1611,7 +1631,19 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
  "modified": "2021-04-15 23:55:13.439068",
+=======
+ "modified": "2021-05-05 12:30:29.567706",
+>>>>>>> Stashed changes
+||||||| merged common ancestors
+ "modified": "2021-01-20 23:40:39.929296",
+=======
+ "modified": "2021-05-05 12:30:29.567706",
+>>>>>>> Stashed changes
+||||||| merged common ancestors
+ "modified": "2021-01-20 23:40:39.929296",
 =======
  "modified": "2021-05-05 12:30:29.567706",
 >>>>>>> Stashed changes
