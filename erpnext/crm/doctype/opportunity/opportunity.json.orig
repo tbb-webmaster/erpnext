@@ -421,11 +421,6 @@
    "fieldtype": "Duration",
    "label": "First Response Time",
    "read_only": 1
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   },
   {
 <<<<<<< Updated upstream
@@ -446,123 +441,13 @@
    "label": "Sales Stage Reason",
    "options": "\nAsked to send Quote\nFollow UP's\nDrawing Submission & Approval\nAsked for Site Visit\nAsked to give Project walkthrough\nSpecification Revision\nAsked for reference or old client list\nPrice Revision\nAsked to give additional discount\nAsked to revise Payment Terms\nAsked to hold\nAsked to wait for board discussion\nAsked to wait for decision makers approval\nAsked to wait for next billing cycle"
 >>>>>>> Stashed changes
-||||||| merged common ancestors
-=======
-  },
-  {
-   "fetch_from": "lead_name.enq_product_name",
-   "fieldname": "enq_product_name",
-   "fieldtype": "Data",
-   "in_list_view": 1,
-   "label": "Enq Product Name"
-  },
-  {
-   "fieldname": "sales_stage_reason",
-   "fieldtype": "Select",
-   "label": "Sales Stage Reason",
-   "options": "\nAsked to send Quote\nFollow UP's\nDrawing Submission & Approval\nAsked for Site Visit\nAsked to give Project walkthrough\nSpecification Revision\nAsked for reference or old client list\nPrice Revision\nAsked to give additional discount\nAsked to revise Payment Terms\nAsked to hold\nAsked to wait for board discussion\nAsked to wait for decision makers approval\nAsked to wait for next billing cycle"
->>>>>>> Stashed changes
-||||||| merged common ancestors
-=======
-  },
-  {
-   "fetch_from": "lead_name.enq_product_name",
-   "fieldname": "enq_product_name",
-   "fieldtype": "Data",
-   "in_list_view": 1,
-   "label": "Enq Product Name"
-  },
-  {
-   "fieldname": "sales_stage_reason",
-   "fieldtype": "Select",
-   "label": "Sales Stage Reason",
-   "options": "\nAsked to send Quote\nFollow UP's\nDrawing Submission & Approval\nAsked for Site Visit\nAsked to give Project walkthrough\nSpecification Revision\nAsked for reference or old client list\nPrice Revision\nAsked to give additional discount\nAsked to revise Payment Terms\nAsked to hold\nAsked to wait for board discussion\nAsked to wait for decision makers approval\nAsked to wait for next billing cycle"
->>>>>>> Stashed changes
-||||||| merged common ancestors
-=======
-  },
-  {
-   "fetch_from": "lead_name.enq_product_name",
-   "fieldname": "enq_product_name",
-   "fieldtype": "Data",
-   "in_list_view": 1,
-   "label": "Enq Product Name"
-  },
-  {
-   "fieldname": "sales_stage_reason",
-   "fieldtype": "Select",
-   "label": "Sales Stage Reason",
-   "options": "\nAsked to send Quote\nFollow UP's\nDrawing Submission & Approval\nAsked for Site Visit\nAsked to give Project walkthrough\nSpecification Revision\nAsked for reference or old client list\nPrice Revision\nAsked to give additional discount\nAsked to revise Payment Terms\nAsked to hold\nAsked to wait for board discussion\nAsked to wait for decision makers approval\nAsked to wait for next billing cycle"
->>>>>>> Stashed changes
-||||||| merged common ancestors
-=======
-  },
-  {
-   "fetch_from": "lead_name.enq_product_name",
-   "fieldname": "enq_product_name",
-   "fieldtype": "Data",
-   "in_list_view": 1,
-   "label": "Enq Product Name"
-  },
-  {
-   "fieldname": "sales_stage_reason",
-   "fieldtype": "Select",
-   "label": "Sales Stage Reason",
-   "options": "\nAsked to send Quote\nFollow UP's\nDrawing Submission & Approval\nAsked for Site Visit\nAsked to give Project walkthrough\nSpecification Revision\nAsked for reference or old client list\nPrice Revision\nAsked to give additional discount\nAsked to revise Payment Terms\nAsked to hold\nAsked to wait for board discussion\nAsked to wait for decision makers approval\nAsked to wait for next billing cycle"
->>>>>>> Stashed changes
-||||||| merged common ancestors
-=======
-  },
-  {
-   "fetch_from": "lead_name.enq_product_name",
-   "fieldname": "enq_product_name",
-   "fieldtype": "Data",
-   "in_list_view": 1,
-   "label": "Enq Product Name"
-  },
-  {
-   "fieldname": "sales_stage_reason",
-   "fieldtype": "Select",
-   "label": "Sales Stage Reason",
-   "options": "\nAsked to send Quote\nFollow UP's\nDrawing Submission & Approval\nAsked for Site Visit\nAsked to give Project walkthrough\nSpecification Revision\nAsked for reference or old client list\nPrice Revision\nAsked to give additional discount\nAsked to revise Payment Terms\nAsked to hold\nAsked to wait for board discussion\nAsked to wait for decision makers approval\nAsked to wait for next billing cycle"
->>>>>>> Stashed changes
   }
  ],
  "icon": "fa fa-info-sign",
  "idx": 195,
  "links": [],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
  "modified": "2021-06-04 10:11:22.831139",
-=======
- "modified": "2021-05-05 17:42:58.913720",
->>>>>>> Stashed changes
-||||||| merged common ancestors
- "modified": "2020-08-12 17:34:35.066961",
-=======
- "modified": "2021-05-05 17:42:58.913720",
->>>>>>> Stashed changes
-||||||| merged common ancestors
- "modified": "2020-08-12 17:34:35.066961",
-=======
- "modified": "2021-05-05 17:42:58.913720",
->>>>>>> Stashed changes
-||||||| merged common ancestors
- "modified": "2020-08-12 17:34:35.066961",
-=======
- "modified": "2021-05-05 17:42:58.913720",
->>>>>>> Stashed changes
-||||||| merged common ancestors
- "modified": "2020-08-12 17:34:35.066961",
-=======
- "modified": "2021-05-05 17:42:58.913720",
->>>>>>> Stashed changes
-||||||| merged common ancestors
- "modified": "2020-08-12 17:34:35.066961",
 =======
  "modified": "2021-05-05 17:42:58.913720",
 >>>>>>> Stashed changes
